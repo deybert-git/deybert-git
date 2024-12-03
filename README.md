@@ -1,7 +1,7 @@
 # 💫 About Me:
 Líder de Equipo Agiles, Gestor estratégico y Analista de Datos.
-- 🔭 Actualmente trabajando como Business Analyst en el área de banca
-- 🌱 Creciendo cada vez como analista de datos
+- 🔭 Actualmente trabajando como Business Analyst en el área de banca.
+- 🌱 Creciendo cada vez más como analista de datos.
 - 👯 En búsqueda de una experiencia como analista de datos.
 
 
